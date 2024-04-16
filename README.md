@@ -1,7 +1,7 @@
 # Loyalty Application
 
 
-[![Branch Status](https://img.shields.io/github/last-commit/johnarriesgado/2main)](https://github.com/johnarriesgado/loyalty_app//branches)
+[![Branch Status](https://img.shields.io/github/last-commit/johnarriesgado/loyalty_app)](https://github.com/johnarriesgado/loyalty_app//branches)
 
 At it's most basic, the platform offers clients the ability to issue loyalty points to their end users. End users use their points to claim/purchase rewards offered by the client.
 
