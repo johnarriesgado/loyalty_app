@@ -109,12 +109,10 @@ Example response:
   ]
 }
 ```
-
-### Loyalty Tier Thresholds
+#### Loyalty Tier Thresholds
 - A standard tier customer is an end user who accumulates 0 points
 - A gold tier customer is an end user who accumulates 1000 points
 - A platinum tier customer is an end user who accumulates 5000 points
-
 
 
 ## Features
@@ -133,3 +131,5 @@ Example response:
 
 ### TODO
 - Add more details to Customer Show endpoint
+- Add Issuing Rewards Rules
+- ADD Background Job TO Manage Loyalty Rewards
